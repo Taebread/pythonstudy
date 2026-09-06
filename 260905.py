@@ -17,9 +17,12 @@
 # print(length)
 
 #test1
-print("Welcome to the Band Name Generator")
-city = input("What's the name of the city you grew up in?\n")
-petName = input("What's your pet's name?\n")
+# print("Welcome to the Band Name Generator")
+# city = input("What's the name of the city you grew up in?\n")
+# petName = input("What's your pet's name?\n")
+#
+# print("your band name could be " + city + " " + petName)
 
-print("your band name could be " + city + " " + petName)
-
+#번호 세기는 0부터 시작한다
+#subscription 은 그 글자를 출력하는것 글자 뒤에 []
+print("Hello"[0])
