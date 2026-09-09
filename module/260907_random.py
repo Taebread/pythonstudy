@@ -60,19 +60,19 @@
 #
 # print(dirty)
 # print(dirty[0][2])
-
-import random
-
-prs = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors\n"))
-computer = random.randint(0, 2)
-
-if prs == 0 and computer == 2:
-    print("You won!")
-elif prs == 2 and computer == 0:
-    print("You lost!")
-elif prs > computer:
-    print("You won!")
-elif prs == computer:
-    print("Draw!")
-else :
-    print("You lost!")
+#
+# import random
+#
+# prs = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors\n"))
+# computer = random.randint(0, 2)
+#
+# if prs == 0 and computer == 2:
+#     print("You won!")
+# elif prs == 2 and computer == 0:
+#     print("You lost!")
+# elif prs > computer:
+#     print("You won!")
+# elif prs == computer:
+#     print("Draw!")
+# else :
+#     print("You lost!")
