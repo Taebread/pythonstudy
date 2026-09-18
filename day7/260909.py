@@ -5,5 +5,10 @@ print(num_char)
 def my_func():
     print("Hello")
     print("Bye")
+print("Hello")
 
-my_func()
+
+my_func()\\\\
+print("Hello")
+def my():
+    print("Hello")ASDfasdfasfdsfwvwvwevdsv
